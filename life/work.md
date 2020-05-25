@@ -1,3 +1,13 @@
+http://blog.livedoor.jp/koyanagi114/archives/40790100.html
+# ここに載ってる
+
+
+
+
+
+
+
+
 仕事辞めたらやるべきこと
 
 1, 福祉課に行って家賃補助制度の申請をする
