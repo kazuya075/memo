@@ -51,3 +51,6 @@ G/GOD EATER/アリサ・イリーニチナ・アミエーラ/アリサ・イリ�
 /X/Xenoblade(
 /XBLAZE/Es/Es01
 
+蟲師ギンコ
+虞美人先輩
+
