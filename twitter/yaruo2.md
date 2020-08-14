@@ -46,3 +46,8 @@ G/GOD EATER/アリサ・イリーニチナ・アミエーラ/アリサ・イリ�
 /GUILTY GEAR（ギルティギア）/エルフェルト＝ヴァレンタイン
 /Nitroplus/装甲悪鬼村正/三世村正
 
+
+/T/TYPE-MOON作品/空の境界/両儀式/両儀式0
+/X/Xenoblade(
+/XBLAZE/Es/Es01
+
