@@ -71,3 +71,9 @@ Ryzen 5 3500
 12627
 Core i5 9400	
 9482
+
+Office 
+http://tanweb.net/2017/02/25/13208/#CPU
+
+
+
