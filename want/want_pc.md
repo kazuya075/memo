@@ -79,5 +79,13 @@ Microsoft DirectX
 NVIDIA GeForce
 
 GoogleのTPUって結局どんなもの？ 日本法人が分かりやすく説明
+_________________________________________________________
 
-
+# pc　見る点
+iiyanaモニター　モニター各社比較
+office home businnes
+win10
+hdd 1T
+ssd
+cpu 
+クロック　スレッド
