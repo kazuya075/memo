@@ -75,5 +75,9 @@ Core i5 9400
 Office 
 http://tanweb.net/2017/02/25/13208/#CPU
 
+Microsoft DirectX
+NVIDIA GeForce
+
+GoogleのTPUって結局どんなもの？ 日本法人が分かりやすく説明
 
 
