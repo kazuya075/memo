@@ -13,4 +13,5 @@ vlc
 lpls
 tex
 graphviz
-
+kindle
+steam
