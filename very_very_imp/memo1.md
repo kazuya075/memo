@@ -49,4 +49,4 @@ CUDA
 
 paypay 役所の書類のスマホサービス
 mycloud 使い方
-outlook
+outlook onenote
