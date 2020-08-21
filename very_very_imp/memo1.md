@@ -50,3 +50,4 @@ CUDA
 paypay 役所の書類のスマホサービス
 mycloud 使い方
 outlook onenote
+箇条書きの点　箇条書きや番号付きリストを追加する　グーグルスライド
