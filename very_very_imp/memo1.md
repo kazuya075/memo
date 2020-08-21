@@ -46,3 +46,7 @@ CUDA
 駅回りの地価　名古屋　1LDK　
 しわ取り　
 声とれ
+
+paypay 役所の書類のスマホサービス
+mycloud 使い方
+outlook
