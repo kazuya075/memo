@@ -51,3 +51,13 @@ paypay 役所の書類のスマホサービス
 mycloud 使い方
 outlook onenote
 箇条書きの点　箇条書きや番号付きリストを追加する　グーグルスライド
+Swayとは
+ IMAPとActiveSync
+ : Gmail と Outlook の相違点
+CATV局
+POP または IMAP
+メールソフト
+
+
+
+
