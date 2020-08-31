@@ -48,10 +48,13 @@ manycore
 ドキュメント√
 winhttp
 directx
-
+dev ops
 
 
 # 済んだもの
 ｐｃ購入
 プロキシ設定　勝手に変わる　ｐｃ　初期化
 ['ahuglajbclajep (ahu) · 'デビルボルケーノ(@moutend)さん - Twitter.url', '自宅無線config']
+python_nlp_sample
+500208_yasashiipython
+
