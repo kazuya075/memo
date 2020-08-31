@@ -60,6 +60,8 @@ dev ops
 python_nlp_sample
 500208_yasashiipython
 pc プリンタの設定
+大学　動画バイト
+
 
 # やりたいこと
 喫茶マウンテン
