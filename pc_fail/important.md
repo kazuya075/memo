@@ -1,6 +1,6 @@
 toeic
 資格
-
+# やるべきこと
 敬語
 きれいな字
 話し方
@@ -11,6 +11,8 @@ toeic
 携帯買い換え
 gmail 携帯買い換え時のパスワード
 恋愛
+スピーチ練習
+無能の就活　本
 
 
 vpngate
@@ -57,4 +59,17 @@ dev ops
 ['ahuglajbclajep (ahu) · 'デビルボルケーノ(@moutend)さん - Twitter.url', '自宅無線config']
 python_nlp_sample
 500208_yasashiipython
+pc プリンタの設定
 
+# やりたいこと
+喫茶マウンテン
+焼き肉
+facebook
+waon
+ipad
+クルマのメンテナンス　道路名　事故対応　etc
+office
+wifi
+手土産の渡し方
+無線LAN
+粗品いつ
