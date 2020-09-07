@@ -64,3 +64,38 @@ Intercultural communication takes place everywhere in business, media, education
 
 (3) over（take overは「引き継ぐ」という意味なので文脈に合わない）
 
+
+
+
+These bags [          ] come with a zippered pocket, but now they all do.
+
+(1) used to
+(2) didn't used to
+(3) don't
+
+
+(2) didn't used to
+
+
+解説
+この文には接続詞butがあるので、空欄を含む最初の節はbut以下の節と反対の意味を表すことがわかります。ここでは文脈から、(2) didn't used toが正解となります。
+
+These bags didn't used to come with a zippered pocket, but now they all do.
+
+訳：以前はこれらのバッグにジッパーのポケットはついていなかったのですが、今はすべてについています。
+
+
+●その他の選択肢●
+(1) used to（文脈に合わないので×）
+
+(3) don't（現在形なので×）
+
+
+
+
+
+
+
+
+
+
