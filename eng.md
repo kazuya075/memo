@@ -40,3 +40,27 @@ It's been almost two years since Jared [          ] working as a professional ph
 (2) was starting
 (3) had started
 
+
+
+Intercultural communication takes [          ] everywhere in business, media, education, politics, tourism, and so on.
+
+(1) after
+(2) place
+(3) over
+答え
+(2) place
+
+
+解説
+take placeで「起こる」という意味なので、(2)が正解となります。
+
+Intercultural communication takes place everywhere in business, media, education, politics, tourism, and so on.
+
+訳：異文化コミュニケーションはビジネス、メディア、教育、政治、旅行といったあらゆる場面で起こります。
+
+
+●その他の選択肢●
+(1) after（take afterは「…に似ている」という意味なので文脈に合わない）
+
+(3) over（take overは「引き継ぐ」という意味なので文脈に合わない）
+
