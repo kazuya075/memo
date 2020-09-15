@@ -92,6 +92,24 @@ These bags didn't used to come with a zippered pocket, but now they all do.
 
 
 
+━━━━━━━━━━━━━━━
+Tom enjoys working for Anderson Press even though they pay [          ] than the company he used to work for.
+
+(1) nothing
+(2) more
+(3) less
+空欄の後ろにはthanがあるので、空欄には比較級が入ることがわかります。ここでは文脈から、(3) lessが正解となります。
+
+Tom enjoys working for Anderson Press even though they pay less than the company he used to work for.
+
+訳：アンダーソン・プレス社は、トムが以前働いていた会社よりも給料は高くありませんが、彼は楽しんで仕事をしています。
+
+
+●その他の選択肢●
+(1) nothing（比較級でないので×）
+
+(2) more（文脈に合わないので×）
+
 
 
 
