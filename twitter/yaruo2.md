@@ -87,3 +87,12 @@ G/GOD EATER/アリサ・イリーニチナ・アミエーラ/アリサ・イリ�
 
 那須玲（ワールドトリガー）
 DARKER THAN BLACK/銀
+
+
+G/GUILTY GEAR（ギルティギア）/ラムレザル＝ヴァレンタイン
+
+/GUILTY GEAR（ギルティギア）/エルフェルト＝ヴァレンタイン
+
+TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/望月千代女
+/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/虞美人
+/TYPE-MOON作品/Fate/00　英霊/Ⅰセイバー/アルテラ
