@@ -1,5 +1,14 @@
 !3d9
 yaruo2
+
+/東方project/先代巫女/先代巫女
+東方project/紅魔郷/紅美東方project/永夜抄/上白沢慧音鈴/紅美鈴
+東方project/星蓮船/聖白蓮/聖白蓮0
+
+東方project/星蓮船/多々良小傘
+
+
+
 Steins；Gate/牧瀬紅莉栖
 
 むてん丸
