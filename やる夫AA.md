@@ -7,6 +7,8 @@ yaruo2
 
 東方project/星蓮船/多々良小傘
 
+刀語/鑢七実
+
 
 Dragons Crown【アマゾン】
 あ行/あ/足洗邸の住人たち
