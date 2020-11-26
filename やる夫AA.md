@@ -204,14 +204,34 @@ YPE-MOON作品/Fate/00　英霊/Ⅳライダー/マルタ.mlt
 /T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/アナスタシア・ニコラエヴナ・ロマノヴァ/アナスタシア01(基本・バストアップ).mlt
 0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/エレナ・ブラヴァツキー/エレナ・ブラヴァツキー01（基本）.mlt
 
+号/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/ジャック・ザ・リッパー/ジャック・ザ・リッパー01（基本）.mlt
+記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/セミラミス.mlt
+記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/加藤段蔵.mlt
+記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/望月千代女（アサシン・パライソ）.mlt
+号/T/TYPE-MOON作品/Fate/00　英霊/Ⅵアサシン/虞美人.mlt
+
+/T/TYPE-MOON作品/Fate/00　英霊/Ⅶバーサーカー/ペンテシレイア（エルドラドのバーサーカー）
+T/TYPE-MOON作品/Fate/00　英霊/Ⅶバーサーカー/ポール・バニヤン／マンガで分かるバーサーカー.mlt
+0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅶバーサーカー/ナイチンゲール.mlt
+OON作品/Fate/00　英霊/Ⅶバーサーカー/源頼光.mlt
+TYPE-MOON作品/Fate/00　英霊/Ⅶバーサーカー/茨木童子.mlt
+
+/TYPE-MOON作品/Fate/00　英霊/エクストラ/アビゲイル・ウィリアムズ.mlt
+号/T/TYPE-MOON作品/Fate/00　英霊/エクストラ/葛飾北斎(葛飾応為).mlt
 
 
+記号/V/VOCALOID・UTAU/VOCALOID/結月ゆかり/結月ゆかり01（基本・表情差分）.mlt
+V/VOCALOID・UTAU/VOICEROID/紲星あかり/紲星あかり01（基本）.mlt
+・記号/V/VOCALOID・UTAU/VOICEROID/弦巻マキ.mlt
+/V/VOCALOID・UTAU/VOICEROID/弦巻マキ.mlt
+・記号/V/VOCALOID・UTAU/VOICEROID/琴葉茜・葵/琴葉茜&葵.mlt
+・記号/V/VOCALOID・UTAU/VOCALOID/東北ずん子.mlt
+・記号/V/VOCALOID・UTAU/派生VOCALOID/弱音ハク/弱音ハク01（基本）.mlt
 
-
-
-
-
-
+号/W/WORKING!!/種島ぽぷら/種島ぽぷら01（基本）.mlt
+・記号/W/WORKING!!/山田葵.mlt
+0・記号/X/XBLAZE/Es/Es01（基本）.mlt
+記号/X/Xenosaga(ゼノサーガ)/KOS-MOS/KOS-MOS01（Ver1）.mlt
 
 
 /ダンジョンに出会いを求めるのは間違っているだろうか/アイズ・ヴァレンシュタイン
