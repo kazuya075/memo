@@ -105,6 +105,67 @@ A・0・記号/I/IS（インフィニット・ストラトス）/セシリア・
 A・0・記号/I/IS（インフィニット・ストラトス）/シャルロット・デュノア/シャルロット・デュノア01（基本）.mlt
 A・0・記号/I/Ib/ギャリー.mlt
 A・0・記号/M/MMR/キバヤシ
+/A・0・記号/M/MarvelComics/サノス
+A・0・記号/M/MarvelComics/デッドプール.mlt
+A・0・記号/N/NARUTO/うちは一族/うちはマダラ.mlt
+A・0・記号/N/NARUTO/木ノ葉隠れの里（火の国）/はたけカカシ.mlt
+A・0・記号/N/NARUTO/木ノ葉隠れの里（火の国）/千手扉間.mlt
+A・0・記号/N/Nitroplus/竜†恋/恋するドラゴン01.mlt
+A・0・記号/S/SUMMON NIGHTシリーズ/ファルゼン・ファリエル/ファルゼン・ファリエル（基本）
+A・0・記号/S/Steins；Gate/阿万音鈴羽.mlt
+
+A・0・記号/S/Steins；Gate/岡部倫太郎.
+
+記号/T/THE IDOLM@STER/シャイニーカラーズ/三峰結華.mlt
+・0・記号/T/THE IDOLM@STER/シャイニーカラーズ/月岡恋鐘.mlt
+・記号/T/THE IDOLM@STER/シャイニーカラーズ/杜野凛世.mlt
+記号/T/THE IDOLM@STER/シャイニーカラーズ/浅倉透.mlt
+記号/T/THE IDOLM@STER/シャイニーカラーズ/白瀬咲耶.mlt
+
+A・0・記号/T/THE IDOLM@STER/シャイニーカラーズ/黛冬優子.mlt
+
+
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/キュート/一ノ瀬志希/一ノ瀬志希01（基本）.mlt
+/T/THE IDOLM@STER/シンデレラガールズ/キュート/輿水幸子/輿水幸子01(
+
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/二宮飛鳥/二宮飛鳥01（基本）.mlt
+A・0・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/白坂小梅/白坂小梅01（通常）.mlt
+
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/神崎蘭子/神崎蘭子01（基本）.mlt
+・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/高垣楓/高垣楓01(基本).mlt
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/鷺沢文香/鷺沢文香01（基本）.mlt
+・0・記号/T/THE IDOLM@STER/シンデレラガールズ/クール/アナスタシア/アナスタシア01（基本・小道具・家事）.m
+T/THE IDOLM@STER/シンデレラガールズ/クール/速水奏/速水奏01（基本）.mlt
+
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/城ヶ崎美嘉/城ヶ崎美嘉01（
+/T/THE IDOLM@STER/シンデレラガールズ/パッション/向井拓海/向井拓海01（基本）.
+0・記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/大槻唯/大槻唯01（基本）.mlt
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/諸星きらり/諸星きらり01（基本）.ml
+
+/THE IDOLM@STER/シンデレラガールズ/パッション/ナターリア
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/佐藤心.mlt
+号/T/THE IDOLM@STER/シンデレラガールズ/パッション/十時愛梨.mlt
+
+号/T/THE IDOLM@STER/シンデレラガールズ/パッション/及川雫.mlt
+
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/城ヶ崎莉嘉.mlt
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/堀裕子.mlt
+
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/夢見りあむ.mlt
+
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/姫川友紀.mlt
+
+・記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/市原仁奈.mlt
+A・0・記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/日野茜.mlt
+
+号/T/THE IDOLM@STER/シンデレラガールズ/パッション/星輝子.mlt
+
+号/T/THE IDOLM@STER/シンデレラガールズ/パッション/村上巴.mlt
+/T/THE IDOLM@STER/シンデレラガールズ/パッション/海老原菜帆.mlt
+記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/的場梨沙.mlt
+号/T/THE IDOLM@STER/シンデレラガールズ/パッション/財前時子.mlt
+号/T/THE IDOLM@STER/菊地真/菊地真01（アイマス1・XENOGLOSSIA）.mlt
+号/T/THE IDOLM@STER/四条貴音/四条貴音01(基本).mlt
 
 
 
