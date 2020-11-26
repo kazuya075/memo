@@ -167,6 +167,50 @@ A・0・記号/T/THE IDOLM@STER/シンデレラガールズ/パッション/日�
 号/T/THE IDOLM@STER/菊地真/菊地真01（アイマス1・XENOGLOSSIA）.mlt
 号/T/THE IDOLM@STER/四条貴音/四条貴音01(基本).mlt
 
+・0・記号/T/To Loveる/古手川唯
+・0・記号/T/To Loveる/ティアーユ・ルナティーク
+
+A・0・記号/T/TYPE-MOON作品/Fate/03　Fate／EXTRA/殺生院キアラ.mlt
+/A・0・記号/T/TYPE-MOON作品/Fate/03　Fate／EXTRA/BB.mlt
+A・0・記号/T/TYPE-MOON作品/Fate/03　Fate／EXTRA/パッションリップ.mlt
+・0・記号/T/TYPE-MOON作品/Fate/03　Fate／EXTRA/メルトリリス.mlt
+A・0・記号/T/TYPE-MOON作品/Fate/03　Fate／EXTRA/女主人公/女主人公01(基本).mlt
+A・0・記号/T/TYPE-MOON作品/Fate/02　Fate／Zero/ウェイバー・ベルベット／ロード・エルメロイII世.mlt
+A・0・記号/T/TYPE-MOON作品/Fate/01　Fate／stay night/カレン・オルテンシア/カレン01（基本
+
+A・0・記号/T/TYPE-MOON作品/Fate/04　Fate／Grand Order/オフェリア・ファムルソローネ.mlt
+号/T/TYPE-MOON作品/Fate/04　Fate／Grand Order/オルガマリー・アニムスフィア.mlt
+A・0・記号/T/TYPE-MOON作品/Fate/05　Fate／Prototype/沙条愛歌/沙条愛歌01(基本).mlt
+・記号/T/TYPE-MOON作品/Fate/06　Fate／Apocrypha/六道玲霞.mlt
+・記号/T/TYPE-MOON作品/Fate/08　ロード・エルメロイII世の事件簿/グレイ.mlt
+
+0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅰセイバー/モードレッド/モードレッド01(基本).mlt
+・0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅰセイバー/紅閻魔.mlt
+・0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅰセイバー/シュヴァリエ・デオン.mlt
+
+T/TYPE-MOON作品/Fate/00　英霊/Ⅱアーチャー/巴御前（アーチャー・インフェルノ）/巴御前01（基本）.
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅱアーチャー/アタランテ.mlt
+
+記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅲランサー/スカサハ.mlt
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅲランサー/秦良玉.mlt
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅲランサー/長尾景虎.mlt
+
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅳライダー/ブーディカ.mlt
+記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅳライダー/マリー・アントワネット.mlt
+YPE-MOON作品/Fate/00　英霊/Ⅳライダー/マルタ.mlt
+
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/マーリン.mlt
+・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/紫式部.mlt
+/T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/アナスタシア・ニコラエヴナ・ロマノヴァ/アナスタシア01(基本・バストアップ).mlt
+0・記号/T/TYPE-MOON作品/Fate/00　英霊/Ⅴキャスター/エレナ・ブラヴァツキー/エレナ・ブラヴァツキー01（基本）.mlt
+
+
+
+
+
+
+
+
 
 
 
