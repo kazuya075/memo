@@ -21,6 +21,8 @@ yaruo2
 
 /東方project/先代巫女/先代巫女
 
+/東方project/花映塚/射命丸文/射命丸文
+
 東方project/紅魔郷/紅美東方project/永夜抄/上白沢慧音鈴/紅美鈴
 
 東方project/星蓮船/聖白蓮/聖白蓮0
