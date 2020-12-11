@@ -1,5 +1,7 @@
 !3d9
 
+https://yarusuki.blog.fc2.com/   
+
 https://aa.yaruyomi.com/
 
 yaruo2
