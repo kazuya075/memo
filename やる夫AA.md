@@ -1,5 +1,9 @@
 !3d9
 
+記号/S/skyrim 【パーサーナックス】
+
+
+
 https://yarusuki.blog.fc2.com/   
 
 https://aa.yaruyomi.com/
