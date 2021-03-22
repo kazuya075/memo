@@ -20,7 +20,7 @@ FAIRY TAIL/エルザ・スカーレット
 フォレスト・サワタリ
 ヤクザ天狗
 
-
+Fate／Prototype/沙条愛歌
 
 
 Lobotomy Corporation アンジェラ
