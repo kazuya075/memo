@@ -41,7 +41,7 @@ Lobotomy Corporation アンジェラ
 
 愛歌
 
-2B
+2B ニーアシリーズ
 
 鹿島
 
