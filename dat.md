@@ -1,3 +1,14 @@
+https://com.nicovideo.jp/live/co4671242?com_header=1
+
+https://rss.r401.net/yaruo/
+
+https://www.pixiv.net/bookmark.php
+
+https://fantia.jp/
+
+
+
+
 "Tyson is a Cyclops, a son of Poseidon, and Percy Jackson’s half brother. He is the current general of the Cyclopes army."
 
 ['T is a protagonist in Percy Jackson’s football team.']
