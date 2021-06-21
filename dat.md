@@ -31,6 +31,14 @@ https://e-hentai.org/g/1896507/93ba88a73f/
 
 https://e-hentai.org/g/1896509/c914969ceb/
 
+BLAZBLUE CENTRALFICTION 公式設定資料集
+
+
+https://e-hentai.org/g/1218840/f05c28f8b6/
+
+Namaniku ATK Illustrations: Chaika - The Coffin Princess
+
+https://e-hentai.org/g/1602857/5c8e87ac5b/
 
 
 
