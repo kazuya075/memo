@@ -88,7 +88,9 @@ https://e-hentai.org/g/1896519/8805f5bb2e/
 
 https://e-hentai.org/g/1604229/fc26ac67d3/
 
+[ヤスダ スズヒト] ヤスダスズヒト画集 シューティングスター・エチケット Side：夜桜四重奏
 
+https://e-hentai.org/g/1453918/485ca36e26/
 
 
 "Tyson is a Cyclops, a son of Poseidon, and Percy Jackson’s half brother. He is the current general of the Cyclopes army."
