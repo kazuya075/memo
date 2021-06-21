@@ -45,11 +45,14 @@ https://e-hentai.org/g/1602857/5c8e87ac5b/
 https://e-hentai.org/g/1544611/0d8b52e2e9/
 
 
+閃乱カグラ Burst Re:Newal 公式イラスト集
+
+https://e-hentai.org/g/1241459/040373210a/
 
 
+閃乱カグラ PEACH BEACH SPLASH 公式イラスト集
 
-
-
+https://e-hentai.org/g/1219876/4062f3fc59/
 
 
 
