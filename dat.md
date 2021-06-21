@@ -64,13 +64,13 @@ God Eater 3 Visual Artworks
 https://e-hentai.org/g/1637022/81c26108c6/
 
 
+God Eater Burst & God Eater 2 Visual Artwooks
 
+https://e-hentai.org/g/854148/d2c01691e0/
 
+GOD EATER ゴッドイーター 5th ANNIVERSARY 公式設定資料集
 
-
-
-
-
+https://e-hentai.org/g/1080059/105d3fbb7b/
 
 
 
