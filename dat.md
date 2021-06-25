@@ -10,6 +10,10 @@ https://twitter.com/home
 
 https://www.nicozon.net/
 
+https://book.dmm.com/free/
+
+https://www.amazon.co.jp/kindle-dbs/manga-store?ref_=nav_em_ms_gno_0_2_8_9
+
 めだかボックス 
 貞操逆転世界
 
