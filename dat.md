@@ -1,3 +1,6 @@
+魔物使いの娘
+ヨハンナ
+
 https://com.nicovideo.jp/live/co4671242?com_header=1
 
 https://rss.r401.net/yaruo/
