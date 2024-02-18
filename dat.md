@@ -18,9 +18,25 @@ https://xmypage.syosetu.com/x1538ba/
 
 https://xmypage.syosetu.com/x0184bi/
 
+https://xmypage.syosetu.com/x2993cb/
+
+https://xmypage.syosetu.com/x3674ch/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------
 
 魔物使いの娘
 ヨハンナ
