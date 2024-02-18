@@ -10,11 +10,11 @@ https://xmypage.syosetu.com/x0670bh/
 
 https://xmypage.syosetu.com/x4346l/
 
+https://xmypage.syosetu.com/x1824z/
 
+https://xmypage.syosetu.com/x1487w/
 
-
-
-
+https://xmypage.syosetu.com/x1538ba/
 
 
 
