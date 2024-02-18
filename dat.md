@@ -22,9 +22,9 @@ https://xmypage.syosetu.com/x2993cb/
 
 https://xmypage.syosetu.com/x3674ch/
 
+https://xmypage.syosetu.com/x1236v/
 
-
-
+https://xmypage.syosetu.com/x8170bd/
 
 
 
