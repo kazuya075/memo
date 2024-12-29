@@ -1,3 +1,8 @@
+
+
+
+https://xmypage.syosetu.com/x2500k/
+
 https://xmypage.syosetu.com/x6310ce/
 
 https://xmypage.syosetu.com/x0083cd/
