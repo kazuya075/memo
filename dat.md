@@ -1,6 +1,12 @@
 
 
 
+https://xmypage.syosetu.com/x5552ci/
+
+https://xmypage.syosetu.com/x0670bh/
+
+https://xmypage.syosetu.com/x9937cl/
+
 https://xmypage.syosetu.com/x2500k/
 
 https://xmypage.syosetu.com/x6310ce/
