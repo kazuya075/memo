@@ -35,7 +35,11 @@ https://xmypage.syosetu.com/x1236v/
 
 https://xmypage.syosetu.com/x8170bd/
 
+https://xmypage.syosetu.com/x5361s/
 
+https://novel18.syosetu.com/n2874ka/
+
+https://xmypage.syosetu.com/x9487f/
 
 ------
 アンセム 聖歌」「賛美歌」「祝歌
