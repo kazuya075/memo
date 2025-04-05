@@ -30,7 +30,7 @@ https://xmypage.syosetu.com/x5552ci/
 
 https://xmypage.syosetu.com/x2803cj/
 
-
+https://xmypage.syosetu.com/x0825ce/
 
 
 
