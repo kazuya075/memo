@@ -32,6 +32,21 @@ https://xmypage.syosetu.com/x2803cj/
 
 https://xmypage.syosetu.com/x0825ce/
 
+https://novel18.syosetu.com/n3192hx/7/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
