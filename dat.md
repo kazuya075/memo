@@ -22,7 +22,7 @@ https://xmypage.syosetu.com/x8694ce/
 
 https://xmypage.syosetu.com/x4040bf/
 
-
+https://xmypage.syosetu.com/x0764bz/
 
 
 
