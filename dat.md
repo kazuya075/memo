@@ -14,6 +14,11 @@ https://xmypage.syosetu.com/x9181bp/
 
 https://xmypage.syosetu.com/x1215bl/
 
+https://xmypage.syosetu.com/x4641bd/
+
+
+
+
 
 
 
