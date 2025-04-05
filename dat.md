@@ -8,8 +8,11 @@ https://xmypage.syosetu.com/x6142bc/
 
 https://xmypage.syosetu.com/x4242bh/
 
+https://xmypage.syosetu.com/x5627bu/
 
+https://xmypage.syosetu.com/x9181bp/
 
+https://xmypage.syosetu.com/x1215bl/
 
 
 
