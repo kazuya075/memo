@@ -18,6 +18,12 @@ https://xmypage.syosetu.com/x4641bd/
 
 https://xmypage.syosetu.com/x1252cl/
 
+https://xmypage.syosetu.com/x8694ce/
+
+
+
+
+
 
 
 
