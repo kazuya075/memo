@@ -20,7 +20,7 @@ https://xmypage.syosetu.com/x1252cl/
 
 https://xmypage.syosetu.com/x8694ce/
 
-
+https://xmypage.syosetu.com/x4040bf/
 
 
 
