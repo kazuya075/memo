@@ -36,7 +36,7 @@ https://novel18.syosetu.com/n3192hx/7/
 
 https://xmypage.syosetu.com/x9937cl/
 
-
+https://xmypage.syosetu.com/x2762ca/
 
 
 
