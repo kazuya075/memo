@@ -16,7 +16,7 @@ https://xmypage.syosetu.com/x1215bl/
 
 https://xmypage.syosetu.com/x4641bd/
 
-
+https://xmypage.syosetu.com/x1252cl/
 
 
 
