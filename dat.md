@@ -24,6 +24,14 @@ https://xmypage.syosetu.com/x4040bf/
 
 https://xmypage.syosetu.com/x0764bz/
 
+https://xmypage.syosetu.com/x0745cn/
+
+https://xmypage.syosetu.com/x5552ci/
+
+
+
+
+
 
 
 
