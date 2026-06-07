@@ -1,6 +1,13 @@
 297
 4423
 
+pixiv
+魔女と傭兵
+バスタード・ソードマン
+
+
+
+
 https://novel18.syosetu.com/n5010fn/
 
 https://xmypage.syosetu.com/x1252cl/
